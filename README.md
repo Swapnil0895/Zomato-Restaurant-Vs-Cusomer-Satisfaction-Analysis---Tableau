@@ -1,22 +1,42 @@
 # Zomato Restaurant Analysis vs Customer Satisfaction
 
-This Tableau project provides a detailed visual analysis of Zomato’s restaurant data across 15 countries and 9,551 cities. It explores key metrics such as average customer ratings, online delivery trends, table booking percentages, and restaurant distribution by country, city, and financial periods. The dashboard also reflects restaurant popularity and trends in pricing buckets.
+This project presents an interactive Tableau dashboard analyzing Zomato’s global restaurant data across 15 countries and over 9,500 cities. The goal is to uncover insights around customer satisfaction, restaurant availability, and service features like online delivery and table booking.
 
-## 📊 Key Insights
-- **Average Rating:** Global average rating is 2.89; Philippines tops with 4.47.
-- **Restaurant Presence:** India leads with 8,652 restaurants, followed by the US and Canada.
-- **Service Features:** Only 25.66% offer online delivery, while 12.12% support table booking.
-- **Growth Trends:** Visualized by quarter and financial month from 2010–2018.
-- **Rating Buckets:** Most restaurants fall between 251–500 INR pricing.
-- **Top-Rated Restaurants:** Displayed by average user rating.
+## 📊 Key Insights & Features
 
-## 🧩 Tools Used
+- **Customer Satisfaction**  
+  Analyze average restaurant ratings across countries. Philippines and Turkey lead in average ratings, while India shows the widest spread in user feedback.
+
+- **Service Preferences**  
+  Visuals show that only 25.66% of restaurants offer online delivery, and just 12.12% support table booking.
+
+- **Restaurant Spread**  
+  Explore restaurant counts by country, city, and month, highlighting operational trends and market penetration.
+
+- **Rating Distribution**  
+  Rating breakdowns reveal customer perception patterns and identify areas with low-rated or top-performing restaurants.
+
+- **Time-Based Analysis**  
+  Tracks restaurant openings over time, segmented by quarter, to evaluate growth patterns between 2010 and 2018.
+
+- **Price Bucket Segmentation**  
+  Restaurants categorized by price range — with the majority falling between ₹251–₹500 — aiding in pricing strategy evaluation.
+
+- **Top Performing Restaurants**  
+  Displays the most highly rated restaurants by name and rating for direct comparison.
+
+## 🧰 Tools Used
 - Tableau Public
-- Excel (for data preprocessing)
+- Microsoft Excel (for data preparation)
 
-## 📁 Dataset
-- Zomato restaurant metadata across multiple countries.
-- Processed for KPIs such as rating, city-wise distribution, booking and delivery options.
+## 🗂️ Data Source
+The dataset includes Zomato restaurant metadata from multiple countries, covering ratings, services offered, location details, and financial information.
+
+
+## 📌 About the Project
+
+This project was created to strengthen my data visualization skills by analyzing real-world data and identifying KPIs relevant to customer satisfaction and business decision-making. It demonstrates dashboard storytelling, filter usage, and visual clarity using Tableau.
+
 
 ## 📌 Dashboard Preview
 ![Dashboard Preview 1](Dashboard%20preview%201.png)
